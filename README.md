@@ -36,3 +36,8 @@ B) x == y;
 C) x == y;t === 33
 
 D) x == y;t == 33
+
+
+
+
+answer C
